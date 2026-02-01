@@ -6,8 +6,8 @@ Terraform module to create a queue in MuleSoft Anypoint MQ.
 
 ```hcl
 module "amq" {
-  source  = "riccardoprosdocimi/mq-queue/anypoint"
-  version = "~> 0.0.0"
+  source  = "riccardoprosdocimi/anypoint-mq-queue/anypoint"
+  version = "~> 0.1.0"
 
   root_org = var.root_org
   env_id = var.env_id

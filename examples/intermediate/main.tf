@@ -1,6 +1,6 @@
 module "amq" {
   source = "../.."
-  #version = "0.0.0"
+  #version = "0.1.0"
 
   # Required variables
   root_org  = var.root_org

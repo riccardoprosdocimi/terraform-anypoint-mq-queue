@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Waiting on provider's bug fix regarding the `anypoint_amq` data source to reintroduce lifecyle preconditions
 - Better validation rules
 
-## [0.0.0] - 2026-02-01
+## [0.1.0] - 2026-02-01
 ### Added
 - Initial release of the module
 - Core module functionality
